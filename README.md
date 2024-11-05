@@ -49,6 +49,12 @@ Excel Analysis:
 
 ![Annotation 2024-11-05 131336](https://github.com/user-attachments/assets/71346305-e17a-43c5-8f6f-33723f186b7c)
 
+![WhatsApp Image 2024-11-05 at 13 07 14](https://github.com/user-attachments/assets/3fc3c123-7f24-4c62-8bc1-51cd218f3204)
+
+![WhatsApp Image 2024-11-05 at 13 07 14 (1)](https://github.com/user-attachments/assets/70f3bddf-b954-424d-b7c3-fb145bee1241)
+
+
+
 ### Data Visulaization 
 
 ### Recommendation
